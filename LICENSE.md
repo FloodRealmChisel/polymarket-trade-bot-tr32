@@ -1,4 +1,4 @@
-# 
+# instant Polymarket Addon | scalping-strategies + backtesting is the best Polymarket addon, featuring scalping-strategies and backtesting. Smart, fast, and optimized for trading on
 
 
 
